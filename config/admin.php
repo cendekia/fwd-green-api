@@ -20,7 +20,7 @@ return [
 		// Color choices
 			// (red, pink, purple, deep-purple, indigo, blue, light-blue, cyan, teal, green)
 			// (yellow, amber, orange, deep-orange, brown, grey, blue-grey, black, light-green, lime)
-		'color' => 'cyan', //default
+		'color' => 'deep-orange', //default
 	]
 
 ];
